@@ -1,0 +1,10 @@
+# Ignorar todo excepto los entregables del taller
+*
+
+# Excepciones: solo trackear estos puntos del taller
+!.gitignore
+!README.md
+!notebooks_prod/
+!notebooks_prod/**
+!01_Punto1_Factor_Cluster_LLM.ipynb
+!02_Punto2_Clustering_EuroSAT.ipynb
